@@ -1,7 +1,6 @@
 # dyndns-client
 
 ![AUR version](https://img.shields.io/aur/version/dyndns-client?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/dyndns-client-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/dyndns-client-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/dyndns-client)
 
 This repository contains build files to build the Arch Linux package `dyndns-client`. Instead of building the
